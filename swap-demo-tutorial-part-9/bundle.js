@@ -47639,8 +47639,8 @@ var TransactionFactory = /** @class */ (function () {
 }());
 exports.default = TransactionFactory;
 
-}).call(this)}).call(this,{"isBuffer":require("../../../../../../../home/gitpod/.nvm/versions/node/v16.16.0/lib/node_modules/browserify/node_modules/is-buffer/index.js")})
-},{".":301,"../../../../../../../home/gitpod/.nvm/versions/node/v16.16.0/lib/node_modules/browserify/node_modules/is-buffer/index.js":152,"ethereumjs-util":479}],304:[function(require,module,exports){
+}).call(this)}).call(this,{"isBuffer":require("../../../../../../../home/gitpod/.nvm/versions/node/v16.17.0/lib/node_modules/browserify/node_modules/is-buffer/index.js")})
+},{".":301,"../../../../../../../home/gitpod/.nvm/versions/node/v16.17.0/lib/node_modules/browserify/node_modules/is-buffer/index.js":152,"ethereumjs-util":479}],304:[function(require,module,exports){
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.N_DIV_2 = exports.isAccessList = exports.isAccessListBuffer = exports.Capability = void 0;
@@ -63621,8 +63621,8 @@ var assertIsString = function (input) {
 };
 exports.assertIsString = assertIsString;
 
-}).call(this)}).call(this,{"isBuffer":require("../../../../../../home/gitpod/.nvm/versions/node/v16.16.0/lib/node_modules/browserify/node_modules/is-buffer/index.js")})
-},{"../../../../../../home/gitpod/.nvm/versions/node/v16.16.0/lib/node_modules/browserify/node_modules/is-buffer/index.js":152,"./internal":480}],479:[function(require,module,exports){
+}).call(this)}).call(this,{"isBuffer":require("../../../../../../home/gitpod/.nvm/versions/node/v16.17.0/lib/node_modules/browserify/node_modules/is-buffer/index.js")})
+},{"../../../../../../home/gitpod/.nvm/versions/node/v16.17.0/lib/node_modules/browserify/node_modules/is-buffer/index.js":152,"./internal":480}],479:[function(require,module,exports){
 "use strict";
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
